@@ -5,7 +5,8 @@ st.set_page_config(
     page_icon="🌻",
     layout="wide",
     initial_sidebar_state="expanded"
-  
+)
+
 Home = st.Page("Pages/1 👩🏻‍💻Home.py")
 About = st.Page("Pages/2 👩🏻‍💼About.py")
 SKills= st.Page("Pages/3 🤓Skills.py")
