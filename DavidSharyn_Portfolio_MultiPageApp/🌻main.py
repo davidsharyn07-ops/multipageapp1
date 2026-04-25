@@ -7,7 +7,7 @@ SKills= st.Page("Pages/3 🤓Skills.py")
 Projects = st.Page("Pages/4 💻Projects.py")
 Contact = st.Page("Pages/5 💌Contact.py")
 
-pg =  st.navigation([main, Home , About , SKills , Projects , Contact])
+pg =  st.navigation([ Home , About , SKills , Projects , Contact])
 pg.run()
 
 st.title("🌻This is my Portfolio")
