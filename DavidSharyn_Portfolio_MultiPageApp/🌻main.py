@@ -1,7 +1,7 @@
 import streamlit as st
 
 main = st.Page("🌻main.py", default=True)
-Home = st.Page("Pages/1 👩🏻‍💻Home.py", default=True)
+Home = st.Page("Pages/1 👩🏻‍💻Home.py")
 About = st.Page("Pages/2 👩🏻‍💼About.py")
 SKills= st.Page("Pages/3 🤓Skills.py")
 Projects = st.Page("Pages/4 💻Projects.py")
