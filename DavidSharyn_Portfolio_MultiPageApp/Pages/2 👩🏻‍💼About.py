@@ -2,7 +2,6 @@ import streamlit as st
 
 st.title("👩🏻‍💼About")
 
-st.image("Pages/sharyn.jpg", width=200, caption="Sharyn")
 st.write("""
 Helllo, Im Sharyn 3rd Year college Student. I am a passionate technology enthusiast with a focus on making and 
 learning codes through innovative solutions.
